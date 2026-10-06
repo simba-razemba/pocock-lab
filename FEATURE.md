@@ -1,2 +1,3 @@
 # Feature
-Add a bar chart showing tcat FEATURE.mdotal rides by month.
+
+Add a bar chart showing total rides per month.
